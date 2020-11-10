@@ -12,5 +12,6 @@ public class ClassJava {
 //Afficher le message Hello World !     
     // commentaire de Tina
     // hello Kawtar
-    // Hello commentaire de Victoria 
+    // Hello commentaire de Victoria
+    // commentaire conflictuel de Victoria "fine and you ?" 
 }
